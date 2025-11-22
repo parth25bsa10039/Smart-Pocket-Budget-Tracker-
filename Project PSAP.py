@@ -116,8 +116,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-git remote add origin https://github.com/parth25bsa10039/Smart-Pocket-Budget-Tracker-.git
-git branch -M main
-git push -u origin main
